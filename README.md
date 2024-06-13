@@ -105,3 +105,9 @@ Para visualizar o dataset filtrado:
 ```
 discentes_2s_2023_ipiranga
 ```
+
+# Análise
+
+Após ter os dois grupos separados, realizei as análises entre eles.
+
+![Gráfico remomendaria participar de PCI](https://github.com/Joabe18/Sistema-de-Monitoramento-de-Creche/assets/87384920/999b1f50-b0cb-47b7-b7c3-1aa6af05ba9c)
